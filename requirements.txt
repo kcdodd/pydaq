@@ -36,7 +36,7 @@ pyparsing==2.3.0
 PySide2==5.11.2
 python-dateutil==2.7.5
 python-multipart==0.0.5
-PyYAML==3.13
+PyYAML==5.4
 requests==2.20.1
 requests-toolbelt==0.8.0
 responder==1.1.2
